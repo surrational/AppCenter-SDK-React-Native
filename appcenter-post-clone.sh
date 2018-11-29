@@ -3,3 +3,13 @@ echo "Executing post clone script in `pwd`"
 echo $NPM_RC | base64 --decode > $APPCENTER_SOURCE_DIRECTORY/DemoApp/.npmrc
 # Delete everything except DemoApp folder
 rm -rf ../appcenter* ../AppCenterReactNativeShared ../TestApp34 ../BrownfieldTestApp ../TestApp
+
+
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
+echo "This is building repository at root instead of selected repository!!!"
