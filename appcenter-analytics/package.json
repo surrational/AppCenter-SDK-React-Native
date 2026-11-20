@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Microsoft/appcenter-sdk-react-native/blob/master/appcenter-analytics/README.md",
   "dependencies": {
-    "appcenter": "1.8.1"
+    "appcenter": "2.0.0"
   },
   "rnpm": {
     "android": {
@@ -30,8 +30,8 @@
     }
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.5.0",
+    "babel-eslint": "8.0.0-alpha.12",
+    "eslint": "7.3.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
