@@ -7,20 +7,20 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"appcenter": "^1.5.0",
-		"appcenter-analytics": "^1.5.0",
-		"appcenter-crashes": "^1.5.0",
-		"appcenter-link-scripts": "^1.5.0",
-		"appcenter-push": "^1.5.0",
-		"react": "16.0.0",
-		"react-native": "^0.53.3",
+		"appcenter": "2.0.0",
+		"appcenter-analytics": "2.0.0",
+		"appcenter-crashes": "2.0.0",
+		"appcenter-link-scripts": "2.0.0",
+		"appcenter-push": "2.0.0",
+		"react": "16.5.0",
+		"react-native": "0.81.0-rc.1",
 		"react-navigation": "^1.0.0-beta.21"
 	},
 	"devDependencies": {
-		"babel-jest": "21.2.0",
-		"babel-preset-react-native": "4.0.0",
-		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0"
+		"babel-jest": "24.0.0-alpha.9",
+		"babel-preset-react-native": "5.0.0",
+		"jest": "27.0.0-next.0",
+		"react-test-renderer": "16.5.0"
 	},
 	"jest": {
 		"preset": "react-native"
